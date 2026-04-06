@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39630339843",
+    "project_id": "falldetector-3d0f4",
+    "storage_bucket": "falldetector-3d0f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39630339843:android:746869ca30a181d02f3336",
+        "android_client_info": {
+          "package_name": "com.falldetector.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbc1qk0irgEf85mBxBzv0r07U6ERG6UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
