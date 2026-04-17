@@ -93,11 +93,11 @@ firebase deploy --only functions
 ## 👥 Team & Credits
 
 This project was developed at **IT_FEST 2026** by:
+- **Abrudan Alexandru**
 - **Miroiu Andrei**
 - **Nagiu Razvan**
-- **Stepan Alexandru-Pavel**
 - **Stana Andrei**
-- **Abrudan Alexandru**
+- **Stepan Alexandru-Pavel**
 
 ---
 
